@@ -24,3 +24,5 @@ Python | JavaScript | PsychoPy | Pavlovia | JASP | RStudio
 Eden C. Lawson
 Behavioral Neuroscience M.A., Queens College CUNY
 Psychology B.A., Binghamton University
+LinkedIn: https://www.linkedin.com/in/eden-c-lawson-616991125/
+Portfolio: https://edenlavoi.cargo.site/
